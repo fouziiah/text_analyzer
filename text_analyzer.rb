@@ -30,6 +30,7 @@ end
     def paragraphCount(text)
         text.split(/\n\n+/).count
 #4. Identify the most common word in the document and display it along with its frequency.
+        
     
 # Analyze the sample text
     filename = 'sample.txt' # Replace with your text file
